@@ -60,5 +60,5 @@ that drove client conversions on Upwork.
 ## 👤 Author
 **Ahmed Mohamed Sedek** — Data Analyst  
 📧 ahmedsedek295@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/ahmed-sedek-2869a1244)  
+🔗 [LinkedIn](https://linkedin.com/in/ahmed-sedek-2869a1244)  
 🌍 Cairo, Egypt · Open to remote opportunities
