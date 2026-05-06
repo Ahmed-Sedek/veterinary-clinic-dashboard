@@ -45,15 +45,15 @@ that drove client conversions on Upwork.
 ---
 
 ## 📷 Dashboard Preview
-![Paw Guardian Dashboard](screenshots/dashboard.png)
+![Paw Guardian Dashboard](Paw_Guardian_Dashboard.png)
 
 ---
 
 ## 📁 Project Files
 | File | Description |
 |------|-------------|
-| `Paw_Guardian_Dashboard.xlsx` | Main interactive dashboard |
-| `screenshots/dashboard.png` | Dashboard preview image |
+| `PawGuardianDashboard.xlsx` | Main interactive dashboard |
+| `Paw_Guardian_Dashboard.png` | Dashboard preview image |
 
 ---
 
