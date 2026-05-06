@@ -45,14 +45,14 @@ that drove client conversions on Upwork.
 ---
 
 ## 📷 Dashboard Preview
-![Paw Guardian Dashboard](Paw_Guardian_Dashboard.png)
+![Paw Guardian Dashboard](Paw_Guardian_DashBoard.png)
 
 ---
 
 ## 📁 Project Files
 | File | Description |
 |------|-------------|
-| `PawGuardianDashboard.xlsx` | Main interactive dashboard |
+| `PawGuardianDashBoard.xlsx` | Main interactive dashboard |
 | `Paw_Guardian_Dashboard.png` | Dashboard preview image |
 
 ---
@@ -60,5 +60,5 @@ that drove client conversions on Upwork.
 ## 👤 Author
 **Ahmed Mohamed Sedek** — Data Analyst  
 📧 ahmedsedek295@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/Ahmed_Sedek)  
+🔗 [LinkedIn](www.linkedin.com/in/ahmed-sedek-2869a1244)  
 🌍 Cairo, Egypt · Open to remote opportunities
