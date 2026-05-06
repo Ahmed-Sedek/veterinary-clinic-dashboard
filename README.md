@@ -1,31 +1,64 @@
-# 🏥 Veterinary Clinic KPI Dashboard
+# 🐾 Paw Guardian Veterinary Clinic — KPI Dashboard
 
 ## 📌 Overview
-An interactive Excel dashboard built for a veterinary clinic to track 
-key performance indicators including revenue, patient visits, and 
-inventory — enabling data-driven decisions for clinic management.
+An interactive Excel dashboard built for **Paw Guardian Veterinary Clinic** 
+to track patient cases, symptom trends, and animal demographics — enabling 
+data-driven decisions for clinic management and medical staff.
 
-## 🛠️ Tools Used
-- Microsoft Excel (PivotTables, Slicers, VBA Macros)
-- Data cleaning and transformation
-- Colorblind-safe color palette for accessibility
+Built as a freelance project and used as a primary portfolio piece 
+that drove client conversions on Upwork.
 
-## 📊 Key Features
-- Interactive slicers to filter by date, department, and doctor
-- Automated KPI calculations using PivotTables
-- VBA macros to automate repetitive reporting tasks
-- Colorblind-accessible design for inclusive data presentation
+---
 
-## 📷 Dashboard Preview
-[Add screenshot here]
+## 🛠️ Tools & Techniques
+- **Microsoft Excel** — PivotTables, Slicers, VBA Macros
+- **Data Cleaning** — Standardized raw patient records
+- **Data Visualization** — Bar charts, KPI cards, symptom frequency analysis
+- **Accessibility** — Colorblind-safe color palette throughout
+
+---
+
+## 📊 Dashboard Features
+
+### 🔍 Interactive Filters (Slicers)
+- Filter by **Animal Type** (Cat / Dog)
+- Filter by **Breed** (15+ breeds)
+- Filter by **Medical History** (Vaccinated, Allergies, Chronic illness, etc.)
+
+### 📈 Visualizations
+- **Number of Pet Cases by Breed** — grouped bar chart (Cat vs Dog)
+- **Top 10 Symptoms Based on Medical History** — horizontal bar chart
+- **KPI Cards** — Total Cases · Average Age · Average Weight
+
+
+
+---
 
 ## 💡 Key Insights Delivered
-- Tracked monthly revenue trends across departments
-- Identified peak visit periods for staff scheduling optimization
-- Monitored inventory levels to reduce supply shortages
+- Fever, Diarrhea, and Weight Loss were the top 3 reported symptoms 
+  among unvaccinated animals — flagging a clear vaccination gap
+- Rottweiler and Bengal breeds had the highest case volumes, 
+  suggesting breed-specific health monitoring opportunities
+- Dashboard enabled clinic staff to filter patient history 
+  instantly instead of manual record searching
 
-## 📁 Files
+---
+
+## 📷 Dashboard Preview
+![Paw Guardian Dashboard](screenshots/dashboard.png)
+
+---
+
+## 📁 Project Files
 | File | Description |
 |------|-------------|
-| `veterinary_dashboard.xlsx` | Main dashboard file |
-| `screenshots/` | Dashboard preview images |
+| `Paw_Guardian_Dashboard.xlsx` | Main interactive dashboard |
+| `screenshots/dashboard.png` | Dashboard preview image |
+
+---
+
+## 👤 Author
+**Ahmed Mohamed Sedek** — Data Analyst  
+📧 ahmedsedek295@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/Ahmed_Sedek)  
+🌍 Cairo, Egypt · Open to remote opportunities
